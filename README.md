@@ -11,3 +11,5 @@ of 57.6 years. The size of the images is 512 × 512×(275−571), and the typica
 the time for labeling each image is 0.5-1.5 hours. The labels include seven substructures: AV, MV, AO, LA, LV, myocardium, and excised myocardium.
 
 Please send emails to xiao.wei.xu@foxmail.com for the download link and the password of the dataset.
+
+HIGHLIGHT 20240831: We have deployed the dataset on Kaggle https://www.kaggle.com/xiaoweixumedicalai/datasets?scroll=true!
